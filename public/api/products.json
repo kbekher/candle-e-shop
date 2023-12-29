@@ -63,13 +63,13 @@
     "age": 5,
     "id": "apricot-jam",
     "type": "scented candle",
-    "imageUrl": "img/",
+    "imageUrl": "img/apricot-0",
     "name": "Apricot Jam",
     "snippet": "An apricot jam candle: mornings filled with warmth, shared laughter over breakfast, and the comforting embrace of home. It's a scent that embodies joy, sweetness, and a touch of sophistication.",
     "ingridients": "apricot, pear, nectarine, jasmine and patchouli",
     "price": 10,
     "discount": 0,
-    "images": []
+    "images": ["apricot-0", "apricot-1", "apricot-2"]
   },
   {
     "age": 6,
