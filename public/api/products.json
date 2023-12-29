@@ -1,0 +1,98 @@
+[
+  {
+    "age": 0,
+    "id": "in-the-pear-garden",
+    "type": "scented candle",
+    "imageUrl": "img/",
+    "name": "In The Pear Garden",
+    "snippet": "Summer, you are at your grandmother's on vacation, next to the house is a pear orchard. You are in search of a ripe fruit, find it, first sense its aroma, and then savor its juicy flesh. Pleasant memories, isn't it? We give you the opportunity to fully experience them, not only through the scent but also by immersing yourself in the atmosphere itself.",
+    "ingridients": "pear, citrus, apple, sugar, wood and musk",
+    "price": 10,
+    "discount": 0,
+    "images": []
+  },
+  {
+    "age": 1,
+    "id": "home-library",
+    "type": "scented candle",
+    "imageUrl": "img/",
+    "name": "Home Library",
+    "snippet": "The same books that have been read by generations. Those books with many folds on the favorite page and the most wear. The books that are your friends, there for you in the best and worst times. Describing the scent 'Home Library,' that's exactly how we feel it.",
+    "ingridients": "teak wood, leather, cedar, musk, patchouli and sandalwood",
+    "price": 10,
+    "discount": 0,
+    "images": []
+  },
+  {
+    "age": 2,
+    "id": "foggy-morning",
+    "type": "scented candle",
+    "imageUrl": "img/",
+    "name": "Foggy Morning",
+    "snippet": "It's the kind of scent that suggests, 'Let's make today a lazy day and spend the entire day in bed binge-watching our favorite series.' It speaks of chilly and damp weather outside, while inside, it's cozy and warm. So why not stay in and enjoy such a beautiful and atmospheric day at home, wrapped in the embrace of a blanket?",
+    "ingridients": "oak moss, lavender, grapefruit, amber and orange",
+    "price": 10,
+    "discount": 0,
+    "images": []
+  },
+  {
+    "age": 3,
+    "id": "wuthering-heights",
+    "type": "scented candle",
+    "imageUrl": "img/",
+    "name": "Wuthering Heights",
+    "snippet": "Gigantic, dense, and dark clouds envelop the city. The scent of ozone permeates the air. A storm and rain are imminent. The wind is gaining momentum, yet you are in no hurry; you simply stand, savoring the moment. The fragrance 'Stormy Pass' evokes exactly this description, and we want you to feel what we feel.",
+    "ingridients": "ozone, citrus, cedar, sandalwood and musk",
+    "price": 10,
+    "discount": 0,
+    "images": []
+  },
+  {
+    "age": 4,
+    "id": "plum-wine",
+    "type": "scented candle",
+    "imageUrl": "img/",
+    "name": "Plum Wine",
+    "snippet": "What do you associate with plum wine? For me, it's the gatherings with friends, long and easy conversations, discussing unreal plans, thoughts about the future, spontaneous dances, and a plethora of jokes.",
+    "ingridients": "gray, cherry, vanilla, citrus, musk and freesia",
+    "price": 10,
+    "discount": 0,
+    "images": []
+  },
+  {
+    "age": 5,
+    "id": "apricot-jam",
+    "type": "scented candle",
+    "imageUrl": "img/",
+    "name": "Apricot Jam",
+    "snippet": "An apricot jam candle: mornings filled with warmth, shared laughter over breakfast, and the comforting embrace of home. It's a scent that embodies joy, sweetness, and a touch of sophistication.",
+    "ingridients": "apricot, pear, nectarine, jasmine and patchouli",
+    "price": 10,
+    "discount": 0,
+    "images": []
+  },
+  {
+    "age": 6,
+    "id": "best-memories",
+    "type": "scented candle",
+    "imageUrl": "img/",
+    "name": "Best Memories",
+    "snippet": "Capture nostalgia and relive pure joy with 'Best Memories' candle. It's the essence of cherished moments, a fragrance that encapsulates happiness in every whiff.",
+    "ingridients": "mint, grapefruit, vanilla, apple, lavender and rose",
+    "price": 10,
+    "discount": 0,
+    "images": []
+  },
+  {
+    "age": 7,
+    "id": "vitamin-d",
+    "type": "scented candle",
+    "imageUrl": "img/",
+    "name": "Vitamin D",
+    "snippet": "Bring sunshine to gloomy days in three simple steps: open the box, retrieve the candle, and light it. Transporting you to summer memories, the warm glow rekindles the blissful feeling of sunlight.",
+    "ingridients": "sun wick, amaretto, pineapple, banana, coconut, vanilla, tonka beans",
+    "price": 7,
+    "discount": 0,
+    "images": []
+  }
+]
