@@ -51,13 +51,13 @@
     "age": 4,
     "id": "plum-wine",
     "type": "scented candle",
-    "imageUrl": "img/",
+    "imageUrl": "img/plum-0.webp",
     "name": "Plum Wine",
     "snippet": "What do you associate with plum wine? For me, it's the gatherings with friends, long and easy conversations, discussing unreal plans, thoughts about the future, spontaneous dances, and a plethora of jokes.",
     "ingridients": "gray, cherry, vanilla, citrus, musk and freesia",
     "price": 10,
     "discount": 0,
-    "images": []
+    "images": ["img/plum-0.webp", "img/plum-1.webp", "img/plum-2.webp", "img/plum-3.webp"]
   },
   {
     "age": 5,
@@ -87,12 +87,12 @@
     "age": 7,
     "id": "vitamin-d",
     "type": "scented candle",
-    "imageUrl": "img/",
+    "imageUrl": "img/vitamin-0.webp",
     "name": "Vitamin D",
     "snippet": "Bring sunshine to gloomy days in three simple steps: open the box, retrieve the candle, and light it. Transporting you to summer memories, the warm glow rekindles the blissful feeling of sunlight.",
     "ingridients": "sun wick, amaretto, pineapple, banana, coconut, vanilla, tonka beans",
     "price": 7,
     "discount": 0,
-    "images": []
+    "images": ["img/vitamin-0.webp", "img/vitamin-1.webp", "img/vitamin-2.webp", "img/vitamin-3.webp"]
   }
 ]
