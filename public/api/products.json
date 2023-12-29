@@ -27,13 +27,13 @@
     "age": 2,
     "id": "foggy-morning",
     "type": "scented candle",
-    "imageUrl": "img/",
+    "imageUrl": "img/fog-0.webp",
     "name": "Foggy Morning",
     "snippet": "It's the kind of scent that suggests, 'Let's make today a lazy day and spend the entire day in bed binge-watching our favorite series.' It speaks of chilly and damp weather outside, while inside, it's cozy and warm. So why not stay in and enjoy such a beautiful and atmospheric day at home, wrapped in the embrace of a blanket?",
     "ingridients": "oak moss, lavender, grapefruit, amber and orange",
     "price": 10,
     "discount": 0,
-    "images": []
+    "images": ["img/fog-0.webp", "img/fog-1.webp", "img/fog-2.webp", "img/fog-3.webp"]
   },
   {
     "age": 3,
@@ -63,13 +63,13 @@
     "age": 5,
     "id": "apricot-jam",
     "type": "scented candle",
-    "imageUrl": "img/apricot-0",
+    "imageUrl": "img/apricot-0.webp",
     "name": "Apricot Jam",
     "snippet": "An apricot jam candle: mornings filled with warmth, shared laughter over breakfast, and the comforting embrace of home. It's a scent that embodies joy, sweetness, and a touch of sophistication.",
     "ingridients": "apricot, pear, nectarine, jasmine and patchouli",
     "price": 10,
     "discount": 0,
-    "images": ["apricot-0", "apricot-1", "apricot-2"]
+    "images": ["img/apricot-0.webp", "img/apricot-1.webp", "img/apricot-2.webp"]
   },
   {
     "age": 6,
