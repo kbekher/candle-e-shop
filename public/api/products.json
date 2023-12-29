@@ -75,13 +75,13 @@
     "age": 6,
     "id": "best-memories",
     "type": "scented candle",
-    "imageUrl": "img/",
+    "imageUrl": "img/memories-0.webp",
     "name": "Best Memories",
     "snippet": "Capture nostalgia and relive pure joy with 'Best Memories' candle. It's the essence of cherished moments, a fragrance that encapsulates happiness in every whiff.",
     "ingridients": "mint, grapefruit, vanilla, apple, lavender and rose",
     "price": 10,
     "discount": 0,
-    "images": []
+    "images": ["img/memories-0.webp", "img/memories-1.webp", "img/memories-2.webp", "img/memories-3.webp"]
   },
   {
     "age": 7,
