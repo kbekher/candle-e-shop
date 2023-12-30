@@ -5,7 +5,7 @@ export const AboutPage = () => (
   <div className="AboutPage">
     <div className="container container--with-min-height ">
       <div className="AboutPage__content">
-        <div className="AboutPage__section">
+        <div className="AboutPage__breadcrumbs">
           <Breadcrumbs />
         </div>
 

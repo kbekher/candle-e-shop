@@ -1,6 +1,7 @@
 import { Product } from './types/Product';
 
 const BASE_URL = 'https://lum-candles.netlify.app/api';
+// const BASE_URL = 'http://localhost:3000/api';
 
 export function fetchProducts(): Promise<Product[]> {
   const URL = `${BASE_URL}/products.json`;
@@ -33,6 +34,7 @@ export const fetchProductDetails = (
 export function fetchGeneralProductDetails(
   productId: string,
 ): Promise<Product | undefined> {
+  console.log(productId);
   return fetchProducts()
     .then(response => {
       const result = response.find(product => product.id === productId);
@@ -42,6 +44,8 @@ export function fetchGeneralProductDetails(
 }
 
 export function fetchCompleteDetails(productId: string): Promise<Product> {
+  console.log(productId);
+
   return Promise.all([
     fetchGeneralProductDetails(productId),
     fetchProductDetails(productId),

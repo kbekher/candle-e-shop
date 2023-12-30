@@ -108,7 +108,7 @@ export const generateSlugForProduct = (
 
   switch (type) {
     case 'candle':
-      directory = 'candle';
+      directory = 'candles';
       break;
     default:
       return '/';

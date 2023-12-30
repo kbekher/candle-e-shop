@@ -1,19 +1,11 @@
 @import "../../utils/utils";
 
 .AboutPage {
-  &__section {
-    margin-bottom: 80px;
+  &__content {
+    padding: 24px 0 80px;
+  }
 
-    &:first-child {
-      margin: 40px auto 72px;
-
-      @include onPhone {
-        margin: 20px auto 48px;
-      }
-    }
-
-    @include onPhone {
-      margin-bottom: 40px;
-    }
+  &__breadcrumbs {
+    margin-bottom: 40px;
   }
 }
