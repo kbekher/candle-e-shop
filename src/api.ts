@@ -1,6 +1,6 @@
 import { Product } from './types/Product';
 
-const BASE_URL = 'http://localhost:3000/api';
+const BASE_URL = 'https://lum-candles.netlify.app/api';
 
 export function fetchProducts(): Promise<Product[]> {
   const URL = `${BASE_URL}/products.json`;
