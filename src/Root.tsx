@@ -3,8 +3,8 @@ import { Routes, Route } from 'react-router-dom';
 import { App } from './App';
 import { HomePage } from './pages/HomePage/HomePage';
 // import { Menu } from './components/Menu';
-// import { PhonesPage } from './pages/PhonesPage';
-// import { ProductDetailsPage } from './pages/ProductDetailsPage';
+import { CandlesPage } from './pages/CandlesPage';
+import { ProductDetailsPage } from './pages/ProductDetailsPage';
 // import { TabletsPage } from './pages/TabletsPage';
 // import { FavouritesPage } from './pages/FavouritesPage';
 // import { CartPage } from './pages/CartPage';
@@ -15,12 +15,12 @@ export const Root = () => (
     <Route path="/" element={<App />}>
       <Route index element={<HomePage />} />
 
-      {/* <Route path="candles">
-        <Route index element={<PhonesPage />} />
+      <Route path="candles">
+        <Route index element={<CandlesPage />} />
         <Route path=":productId" element={<ProductDetailsPage />} />
       </Route>
 
-      <Route path="about">
+      {/* <Route path="about">
         <Route index element={<TabletsPage />} />
       </Route>
 

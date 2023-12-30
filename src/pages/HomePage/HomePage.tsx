@@ -13,7 +13,7 @@ export const HomePage = () => (
           <ProductsSlider
             title="Best selling products"
             filter="random"
-            sortBy="random"
+            sortBy="age"
           />
         </div>
         <div className="HomePage__section">
