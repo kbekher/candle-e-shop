@@ -8,13 +8,9 @@ import './Header.scss';
 
 export const Header = () => {
   const { pathname } = useLocation();
-  const nestingDepth = pathname.split('/').filter(el => el !== '').length;
 
-  const showSearchBar = pathname !== '/'
-    && pathname !== '/cart'
-    && pathname !== '/menu'
-    && nestingDepth === 1;
-
+  const showSearchBar = pathname === '/candles' || pathname === '/favourites';
+  
   const navigate = useNavigate();
 
   const handleMenuClick = () => {
