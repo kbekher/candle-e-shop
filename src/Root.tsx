@@ -2,13 +2,13 @@ import { Routes, Route } from 'react-router-dom';
 
 import { App } from './App';
 import { HomePage } from './pages/HomePage/HomePage';
-// import { Menu } from './components/Menu';
+import { Menu } from './components/Menu';
 import { CandlesPage } from './pages/CandlesPage';
 import { ProductDetailsPage } from './pages/ProductDetailsPage';
 import { AboutPage } from './pages/AboutPage';
 import { FavouritesPage } from './pages/FavouritesPage';
-// import { CartPage } from './pages/CartPage';
-// import { NotFoundPage } from './pages/NotFoundPage';
+import { CartPage } from './pages/CartPage';
+import { NotFoundPage } from './pages/NotFoundPage';
 
 export const Root = () => (
   <Routes>
@@ -25,11 +25,11 @@ export const Root = () => (
       </Route>
 
       <Route path="favourites" element={<FavouritesPage />} />
-      {/* <Route path="cart" element={<CartPage />} />
+      <Route path="cart" element={<CartPage />} />
 
       <Route path="/menu" element={<Menu />} />
 
-      <Route path="*" element={<NotFoundPage />} /> */}
+      <Route path="*" element={<NotFoundPage />} />
     </Route>
   </Routes>
 );
