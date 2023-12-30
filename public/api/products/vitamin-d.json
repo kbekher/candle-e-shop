@@ -1,0 +1,20 @@
+{
+  "description": "Bring sunshine to gloomy days in three simple steps: open the box, retrieve the candle, and light it. Transporting you to summer memories, the warm glow rekindles the blissful feeling of sunlight.",
+  "id": "vitamin-d",
+  "images": [
+    "img/vitamin-0.webp",
+    "img/vitamin-1.webp",
+    "img/vitamin-2.webp",
+    "img/vitamin-3.webp"
+  ],
+  "ingridients": [
+    "sun wick",
+    "amaretto",
+    "pineapple",
+    "banana",
+    "coconut",
+    "vanilla",
+    "tonka beans"
+  ],
+  "name": "Vitamin D"
+}

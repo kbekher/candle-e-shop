@@ -1,0 +1,19 @@
+{
+  "description": "What do you associate with plum wine? For me, it's the gatherings with friends, long and easy conversations, discussing unreal plans, thoughts about the future, spontaneous dances, and a plethora of jokes.",
+  "id": "plum-wine",
+  "images": [
+    "img/plum-0.webp",
+    "img/plum-1.webp",
+    "img/plum-2.webp",
+    "img/plum-3.webp"
+  ],
+  "ingridients": [
+    "gray",
+    "cherry",
+    "vanilla",
+    "musk",
+    "citrus",
+    "freesia"
+  ],
+  "name": "Plum Wine"
+}

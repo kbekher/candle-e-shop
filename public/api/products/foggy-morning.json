@@ -1,0 +1,18 @@
+{
+  "description": "It's the kind of scent that suggests, 'Let's make today a lazy day and spend the entire day in bed binge-watching our favorite series.' It speaks of chilly and damp weather outside, while inside, it's cozy and warm. So why not stay in and enjoy such a beautiful and atmospheric day at home, wrapped in the embrace of a blanket?",
+  "id": "foggy-morning",
+  "images": [
+    "img/fog-0.webp",
+    "img/fog-1.webp",
+    "img/fog-2.webp",
+    "img/fog-3.webp"
+  ],
+  "ingridients": [
+    "oak moss",
+    "lavender",
+    "grapefruit",
+    "amber",
+    "orange"
+  ],
+  "name": "Foggy Morning"
+}

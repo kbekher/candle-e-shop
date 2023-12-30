@@ -1,0 +1,19 @@
+{
+  "description": "Capture nostalgia and relive pure joy with 'Best Memories' candle. It's the essence of cherished moments, a fragrance that encapsulates happiness in every whiff.",
+  "id": "best-memories",
+  "images": [
+    "img/memories-0.webp",
+    "img/memories-1.webp",
+    "img/memories-2.webp",
+    "img/memories-3.webp"
+  ],
+  "ingridients": [
+    "mint",
+    "grapefruit",
+    "vanilla",
+    "apple",
+    "lavender",
+    "rose"
+  ],
+  "name": "Best Memories"
+}
