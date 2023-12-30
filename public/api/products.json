@@ -12,7 +12,7 @@
     "age": 1,
     "id": "home-library",
     "type": "candle",
-    "imageUrl": "img/",
+    "imageUrl": "img/library-0.webp",
     "name": "Home Library",
     "price": 10,
     "discount": 0
@@ -30,7 +30,7 @@
     "age": 3,
     "id": "wuthering-heights",
     "type": "candle",
-    "imageUrl": "img/",
+    "imageUrl": "img/heights-0.webp",
     "name": "Wuthering Heights",
     "price": 10,
     "discount": 0

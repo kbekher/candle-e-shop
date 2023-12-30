@@ -2,9 +2,8 @@
   "description": "The same books that have been read by generations. Those books with many folds on the favorite page and the most wear. The books that are your friends, there for you in the best and worst times. Describing the scent 'Home Library,' that's exactly how we feel it.",
   "id": "home-library",
   "images": [
-    "",
-    "",
-    ""
+    "img/library-0.webp",
+    "img/library-1.webp"
   ],
   "ingridients": [
     "teak wood",
