@@ -5,6 +5,7 @@ import {
   generateSlugForProduct,
   getPriceAfterDiscount,
 } from '../../helpers/utils';
+import { WEBSITE_URL } from '../../helpers/constants';
 
 import './ProductCard.scss';
 
@@ -37,7 +38,7 @@ export const ProductCard: React.FC<Props> = ({ product }) => {
       <div className="ProductCard__img-container">
         <Link to={slug} onClick={handleClick}>
           <img
-            src={imageUrl}
+            src={WEBSITE_URL + imageUrl}
             alt={name}
             className="ProductCard__img"
           />

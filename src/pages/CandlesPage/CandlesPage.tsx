@@ -3,7 +3,7 @@ import { ProductsPage } from '../../components/ProductsPage';
 
 export const CandlesPage = () => (
   <ProductsPage
-    category="Candles"
+    category="candles"
     fetchProducts={fetchProducts}
   />
 );

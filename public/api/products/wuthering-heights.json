@@ -2,8 +2,7 @@
   "description": "Gigantic, dense, and dark clouds envelop the city. The scent of ozone permeates the air. A storm and rain are imminent. The wind is gaining momentum, yet you are in no hurry; you simply stand, savoring the moment. The fragrance 'Stormy Pass' evokes exactly this description, and we want you to feel what we feel.",
   "id": "wuthering-heights",
   "images": [
-    "img/heights-0.webp",
-    "img/heights-1.webp"
+    "img/heights-0.webp"
   ],
   "ingridients": [
     "ozone",
@@ -12,5 +11,5 @@
     "sandalwood",
     "musk"
   ],
-  "name": "Vitamin D"
+  "name": "Wuthering Heights"
 }

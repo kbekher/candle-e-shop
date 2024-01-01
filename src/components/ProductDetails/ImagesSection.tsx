@@ -1,11 +1,13 @@
 import { useState, useEffect } from 'react';
 import classnames from 'classnames';
 
+import { WEBSITE_URL } from '../../helpers/constants';
 import './ProductDetails.scss';
 
 type Props = {
   images: string[],
 };
+
 
 export const ImagesSection: React.FC<Props> = ({
   images,
@@ -19,7 +21,7 @@ export const ImagesSection: React.FC<Props> = ({
 
   useEffect(() => {
     setSelectedImage(images[0]);
-  }, [images[0]]);
+  }, [images]);
 
   const handlePageChange = (pageNumber: number) => () => setPage(pageNumber);
   const handleImgSelect = (path: string) => () => setSelectedImage(path);
@@ -51,7 +53,7 @@ export const ImagesSection: React.FC<Props> = ({
                 'ProductDetails__image-button',
                 { 'ProductDetails__image-button--selected': isSelected },
               )}
-              style={{ backgroundImage: `url(${path})` }}
+              style={{ backgroundImage: `url(${WEBSITE_URL + path})` }}
               onClick={handleImgSelect(path)}
             >
               {' '}
@@ -73,7 +75,7 @@ export const ImagesSection: React.FC<Props> = ({
       </div>
       <div
         className="ProductDetails__image ProductDetails__selected-image"
-        style={{ backgroundImage: `url(${selectedImage})` }}
+        style={{ backgroundImage: `url(${WEBSITE_URL + selectedImage})` }}
       >
         {' '}
       </div>
