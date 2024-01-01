@@ -1,14 +1,14 @@
 import ReactDOM from 'react-dom';
-import { HashRouter } from 'react-router-dom';
+import { BrowserRouter } from 'react-router-dom';
 
 import { Root } from './Root';
 import { SavedItemsProvider } from './store/SavedProductsContext';
 
 ReactDOM.render(
   <SavedItemsProvider>
-    <HashRouter>
+    <BrowserRouter>
       <Root />
-    </HashRouter>
+    </BrowserRouter>
   </SavedItemsProvider>,
   document.getElementById('root'),
 );
